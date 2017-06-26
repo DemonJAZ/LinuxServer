@@ -229,7 +229,7 @@ Run the following commands:
 
 ### Remember To edit /etc/apache2/sites-enabled/000-default.conf
   *  open `sudo nano /etc/apache2/sites-enabled/000-default.conf`
-      and change WSGIScriptAlias / /var/www/html/myapp.wsgi to  WSGIScriptAlias / /var/www/SoccerFeet/SoccerFeet.wsgi
+      and change "WSGIScriptAlias / /var/www/html/myapp.wsgi" to  "WSGIScriptAlias / /var/www/SoccerFeet/SoccerFeet.wsgi"
   *  `sudo apache2ctl restart`
 ### 16. Install and configure PostgreSQL:
 

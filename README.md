@@ -1,6 +1,6 @@
 # Linux Server Configuration
 
-#### _My SoccerFeet application Launched as Udacity's Item Catalog Project
+#### My SoccerFeet application Launched as Udacity's Item Catalog Project
      link: http://github.com/DemonJAZ/ItemCatalog 
 
 ***
@@ -9,14 +9,14 @@
 
 ***
 
-### Notes for reviewer:
+### For Udacity reviewer:
 
 * Public IP: 13.126.189.194
 * SSH PORT: 2200
 * Full project URL:  http://ec2-13-126-189-194.ap-south-1.compute.amazonaws.com
 ***
 
-## Tasks given and method for completion:
+## Steps To Configure Server:
 
 ### 1. Start a new Ubuntu Linux server instance on Amazon Lightsail:
 
